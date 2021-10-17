@@ -1,5 +1,5 @@
 ###免费节点分享
-科学上网、翻墙、免费节点ss/v2ray/Trojan,经测试后，202年10月10日已更新。
+科学上网、翻墙、免费节点ss/v2ray/Trojan,经测试后，202年10月17日已更新。
 以下有200条免费节点
 把链接导入到v2ray的订阅设置里面，再更新订阅即可。
 https://xiaotianbumei.github.io/ss-ssr-v2ray-trojan/free.html
